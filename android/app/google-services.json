@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "822470163290",
+    "project_id": "fir-notifications-33a06",
+    "storage_bucket": "fir-notifications-33a06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822470163290:android:cf509d363bba9c8f54d163",
+        "android_client_info": {
+          "package_name": "com.emaan.flutternotifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy3aYOa4XcVxQLzOpwP8uXfZrXQ3rL19c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
